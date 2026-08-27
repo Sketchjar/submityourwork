@@ -320,6 +320,7 @@ A comprehensive curated list of **484** places for submitting your startup or we
 | **Peerlist** | [Link](https://peerlist.io) | Directory or Submission platform | Medium | Maybe |
 | **PeerPush** | [Link](https://peerpush.net/) | Directory or Submission platform | Medium | Maybe |
 | **Penzu** | [Link](https://penzu.com) | High DA backlink and submission platform. | High | Maybe |
+| **Phyco** | [Link](https://phyco.org/submit) | Website catalogue with verified user reviews. Free listing, no signup. | Low | Maybe |
 | **PitchBook** | [Link](https://pitchbook.com) | High DA backlink and submission platform. | High | Maybe |
 | **PitchGround** | [Link](https://pitchground.com/) | Directory or Submission platform | Medium | Maybe |
 | **PitchWall** | [Link](https://pitchwall.co/product/submit) | Directory or Submission platform | Medium | Maybe |
