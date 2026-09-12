@@ -537,6 +537,7 @@ These directories and communities are meticulously selected for **Blumify** as a
 | **Dealify** | [Link](https://dealify.com/) | SaaS deals for growth-hackers and marketers. | Medium | ✅ Highly Recommended |
 | **SaaS Mantra** | [Link](https://saasmantra.com/) | B2B SaaS Lifetime deal community. | Medium | ✅ Highly Recommended |
 | **RocketHub** | [Link](https://rockethub.com/) | Software deals for entrepreneurs. | Medium | ✅ Highly Recommended |
+| **SaaSCity** | [Link](https://saascity.io/) | Gamified SaaS directory — every listing becomes a building on a live isometric city map. | Medium | ⭐ Recommended |
 - Tiny Alternatives
 - Startup Fame
 - Betafy
