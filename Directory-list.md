@@ -1,6 +1,6 @@
 # 500+ Places to Submit Your Website
 
-A comprehensive curated list of **484** places for submitting your startup or website to gain traffic, build backlinks, and find early users.
+A comprehensive curated list of **485** places for submitting your startup or website to gain traffic, build backlinks, and find early users.
 
 > [!IMPORTANT]
 > Always read the submission guidelines of a site before submitting. Quality submissions are approved faster and drive better traffic.
@@ -386,6 +386,7 @@ A comprehensive curated list of **484** places for submitting your startup or we
 | **StackSocial** | [Link](https://stacksocial.com/) | Directory or Submission platform | Medium | Maybe |
 | **Starter Story** | [Link](https://starterstory.com/) | Directory or Submission platform | Medium | Maybe |
 | **StartLocal** | [Link](https://startlocal.com) | High DA backlink and submission platform. | High | ❌ No (Local Focus) |
+| **StarTap** | [Link](https://startap.cc/) | Free startup directory with maker submissions, project pages, and a 3D clicker game. | Not measured | Not assessed |
 | **Startup 88** | [Link](https://startup88.com/) | Directory or Submission platform | Medium | ⭐ Recommended |
 | **Startup Base** | [Link](https://startupbase.io/submit) | Directory or Submission platform | Medium | ⭐ Recommended |
 | **Startup Beat** | [Link](https://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/) | Directory or Submission platform | Medium | ⭐ Recommended |
