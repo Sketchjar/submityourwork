@@ -336,6 +336,7 @@ A comprehensive curated list of **484** places for submitting your startup or we
 | **Productivity Directory** | [Link](https://productivity.directory) | Directory or Submission platform | Medium | Maybe |
 | **Project Hatch** | [Link](https://www.projecthatch.co/your-story/) | Directory or Submission platform | Medium | Maybe |
 | **PRWeb** | [Link](https://prweb.com) | High DA backlink and submission platform. | High | Maybe |
+| **Public Prompts** | [Link](https://www.publicprompts.art/) | Curated AI-tools directory. [Owner submission](https://www.publicprompts.art/submit): US$19.99 once + tax before review; nofollow tool links. Free to browse. | Unverified | Unassessed |
 | **r/startup** | [Link](https://www.reddit.com/r/startup/) | Directory or Submission platform | Medium | ⭐ Recommended |
 | **RateMyStartup** | [Link](https://ratemystartup.com) | High DA backlink and submission platform. | High | ⭐ Recommended |
 | **Reddit** | [Link](https://reddit.com) | High DA backlink and submission platform. | High | Maybe |
